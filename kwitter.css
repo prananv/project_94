@@ -1,0 +1,26 @@
+body{
+	background-color: crimson;
+	background-position: center;
+}
+
+.login_div1
+	{
+		background: rgb(19, 45, 129);
+		padding: 15px;
+		float: none;
+		border-radius: 15px;
+		color: green;
+	}
+
+img {
+		border-radius: 50%;		
+         padding: 35px;
+         width: 350px;
+    }
+
+h1{
+    font-style:italic;
+	font-size: 50px;
+	color:mediumblue;
+	padding-left: 350px;
+}
